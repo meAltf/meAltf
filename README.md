@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alataf Ansari</h1>
 <h3 align="center">A passionate frontend developer from Bihar India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/279765/screenshots/1906733/selfportrait.gif">
+<img align="right" alt="coding" height="500" width="1150" src="https://cdn.dribbble.com/users/279765/screenshots/1906733/selfportrait.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mealtf&label=Profile%20views&color=0e75b6&style=flat" alt="mealtf" /> </p>
 
