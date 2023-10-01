@@ -29,5 +29,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/meAltf/meAltf/output/snake.svg" alt="Snake animation" />
+
 
