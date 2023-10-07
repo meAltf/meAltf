@@ -1,6 +1,6 @@
 # 💫  Hi I am <>Alataf Ansari</>:
 - A passionate Full Stack Web Developer <br>.
--🔭 I’m currently working with MongoDB, ReactJS, NodeJS and ExpressJS.<br>- 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.<br>- 👯 I’m looking to collaborate with people with Amazing Ideas.<br>- 🌱 I’m currently learning MERN Stack & building Projects
+-🔭 I’m currently working with MongoDB, ReactJS, NodeJS and ExpressJS.<br>- 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.<br>- 👯 I’m looking to collaborate with people with Amazing Ideas.<br>- 🌱 I’m currently learning MERN Stack & building Projects.
  in public.<br>- ⚡ Fun fact: I love connecting  & socializing with new people.
 
  
