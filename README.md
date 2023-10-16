@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/meAltf?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/meAltf?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=meAltf&style=for-the-badge&logo=github" alt="" />
 
 
-<!-----About Me --------->
+<!-----About Me ---------> 
  
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
