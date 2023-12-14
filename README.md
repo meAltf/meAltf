@@ -1,151 +1,210 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://meAltf.github.io) 
-<h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Alataf Ansari</h1>
-      
- <!----Tag line------>              
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;Open-Source+Enthusiast" alt="Headline" />
-   
-</div>   
-<!-- <p align="center"><a href="https://meAltf.github.io">Portfolio↗</a></p> -->   
-    
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">         
-        
-![GitHub followers](https://img.shields.io/github/followers/meAltf?style=for-the-badge&logo=github)[![GitHub User's stars](https://img.shields.io/github/stars/meAltf?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=meAltf&style=for-the-badge&logo=github" alt="" />
-   
+[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@getlost01)
 
-<!-----About Me ---------> 
- 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
- ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://meAltf.netlify.com)
+---
+### 👦 About Me
+- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
 
- 
- ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%6DB33F?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
- 
- 
- ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)
- 
- 
-![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alataf.dce.cs1@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
+- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
 
+- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
-![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗-%23E34F26?style=for-the-badge&logoColor=white)]([[https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing]](https://drive.google.com/file/d/1LUY2hkJ_PAGFjXD-u1rSt-sB_clD709Z/view?usp=drivesdk))
+- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
 
+--- 
 
-![](https://img.shields.io/badge/⚡%20Fun%20fact-yellow?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/My%20first%20line%20of%20code%20was%20not-%2300f?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Hello%20%20World!-%23404d59?style=for-the-badge)
+### 🔥 My Stats 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/getlost01/github-stats">
+<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
- <!--------------- About me end ---------------->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="my overview" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg">
+</picture>
 
- <p  align="right">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="my languages" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg">
+</picture> -->
+</a>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/wXPEmYjn)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mealtf)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/robert_broon_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mealtf)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/meAltf)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mealtf)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mealtf)[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mealtf) 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
- <h2 align="left"> 💻 Workspace:</h2><br/>
-    <p align='center'>
-  <br/>
-        <img src="https://img.shields.io/badge/Ubuntu%20OS-64BAFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/TUF%20F15-83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
- 
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<!--- stats & Trophy (start) -->
-
-<p align="center">
- 
-  <!--- stats (start) --> 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=meAltf&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=meAltf&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meAltf&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meAltf&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="meAltf" /></a> </p>
-<!--- trophy (end) -->
+--- 
 
 
-</p>        
- 
-<!--- stats (end) --->
+### ⚙️ My Projects 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+#### Full-Stack Projects :
+* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
+* [Web Tools](https://github.com/getlost01/web-tools-gl01)
+* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
+* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
+* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [Meal Planner](https://github.com/getlost01/meal-planner-API)
+* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
+* [ABitShort](https://github.com/getlost01/linkshortner)
+* [File Share App](https://github.com/getlost01/dlink-share)
 
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+#### Web Store Extensions 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
+* [Site Saver](https://github.com/getlost01/site-saver)
+* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
 
-## Here are some 🦜Parrots😂:
+#### Frontend Projects :
+
+* [Country Search](https://github.com/getlost01/country-search)
+* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+
+#### GitBook
+* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
+
+<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+
+---
+
+### :hammer_and_wrench: Languages and Tools 
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
-<br>
-<p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+---
 
- <h3 align="center"> Show some ❤ by starring some of the repositories! </h3>
+### 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2056%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                611 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌆 Daytime                1057 commits        ██████████░░░░░░░░░░░░░░░   40.42 % 
+🌃 Evening                664 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌙 Night                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   372 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Thursday                 270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Friday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   603 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               9 hrs 13 mins       █████████████░░░░░░░░░░░░   53.25 % 
+C++                      5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 19 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      17 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               28 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+```
+
+
+
+
+ Last Updated on 14/12/2023 00:39:32 UTC
+<!--END_SECTION:waka-->
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://portfolio-de-aagam.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://gl01.gitbook.io/gfg-editorials">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>
+</div>
+
+---
+
+### 👀 Visitor Info
+<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
