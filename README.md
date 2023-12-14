@@ -1,38 +1,38 @@
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@getlost01)
+[![An image of @meAltf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meAltf)](https://holopin.io/@meAltf)
 
-<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
+<h2 align="center">Hi 👋, I'm Alataf Ansari</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 I'm a software developer at MindSprint(Olam information)
 
-- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
+- 🔭 I’m currently working on **springBoot** **microservices** & focusing on **DSA**
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **springboot applications & other full-stack tools.**
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 10% ChatGPT + 10% Bard.ai** 
 
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=meAltf&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=meAltf&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=meAltf&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/meAltf/github-stats">
+<img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="my overview" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meAltf/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/meAltf/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="my overview" src="https://github.com/meAltf/github-stats.github.io/blob/master/generated/overview.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="my languages" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meAltf/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/meAltf/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="my languages" src="https://github.com/meAltf/github-stats.github.io/blob/master/generated/languages.svg">
 </picture> -->
 </a>
 
@@ -42,32 +42,32 @@
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
+* [Intelli-Kanban](https://github.com/meAltf/Intelli-Kanban)
+* [Web Tools](https://github.com/meAltf/web-tools-gl01)
+* [Blogging Web APIs](https://github.com/meAltf/Postgre-APIs-App)
+* [Inventory App](https://github.com/meAltf/InventoryAppFrontend)
+* [UIET Connect](https://github.com/meAltf/UietConnect)
+* [Meal Planner](https://github.com/meAltf/meal-planner-API)
+* [Voting Management System](https://github.com/meAltf/VotingManagmentSystem)
+* [ABitShort](https://github.com/meAltf/linkshortner)
+* [File Share App](https://github.com/meAltf/dlink-share)
 
 #### Web Store Extensions 
 
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
+* [Color Tools and Dropper](https://github.com/meAltf/color-picker-updated)
+* [Site Saver](https://github.com/meAltf/site-saver)
+* [CP Calendar](https://github.com/meAltf/cp-contest-calender)
 
 #### Frontend Projects :
 
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Country Search](https://github.com/meAltf/country-search)
+* [Portfolio Site](https://github.com/meAltf/portfolio.github.io)
+* [Quiz App Templates](https://github.com/meAltf/quiz-template)
 
 #### GitBook
 * [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
 
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+<a href="https://github.com/meAltf/meAltf/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
 
@@ -180,9 +180,9 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://meAltf.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://meAltf.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://meAltf.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
