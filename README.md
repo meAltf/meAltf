@@ -1,4 +1,4 @@
-<!-- [![An image of @meAltf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meAltf)](https://holopin.io/@meAltf) --!>
+<!-- [![An image of @meAltf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meAltf)](https://holopin.io/@meAltf) -->
 
 <h2 align="center">Hi 👋, I'm Alataf Ansari</h2>
 
