@@ -21,7 +21,7 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=meAltf&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/meAltf/github-stats">
 <img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /> 
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meAltf/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
