@@ -20,7 +20,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=meAltf&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=meAltf&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=meAltf&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/meAltf/github-stats">
-<img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=meAltf&theme=midnight-purple&hide_border=false" />
 <img width="400" src="https://meAltf.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" /> 
 
 <!-- <picture>
