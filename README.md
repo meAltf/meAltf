@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://meAltf.github.io) 
 <h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Alataf Ansari</h1>
-                           
+                             
  <!----Tag line------>                                                  
 <div align=center>               
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;Open-Source+Enthusiast" alt="Headline" />        
