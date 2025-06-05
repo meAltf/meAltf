@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://mealtf.netlify.com" target="_blank"><strong>Portfolio ↗</strong></a> • 
+  <a href="https://drive.google.com/file/d/1c_KeZdw3unygyAoefEbR5kyztTx6SN1X/view?usp=drive_link" target="_blank"><strong>esume ↗</strong></a>
   <a href="https://drive.google.com/file/d/1LUY2hkJ_PAGFjXD-u1rSt-sB_clD709Z/view?usp=drivesdk" target="_blank"><strong>Resume ↗</strong></a>
 </p>
 
