@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alataf Ansari</h1>
 <h3 align="center">Software Developer | Full Stack Java Enthusiast | Open-Source Contributor</h3>
-<img align="right"="coding" width="400" src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meAltf&label=Profile%20views&color=0e75b6&style=flat" alt="meAltf" /> </p>
 
 <p align="center">
   <a href="https://mealtf.netlify.com" target="_blank"><strong>Portfolio ↗</strong></a> • 
   <a href="https://drive.google.com/file/d/1c_KeZdw3unygyAoefEbR5kyztTx6SN1X/view?usp=drive_link" target="_blank"><strong>Resume ↗</strong></a>
 </p>
+
+<img align="right"="coding" width="400" src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meAltf&label=Profile%20views&color=0e75b6&style=flat" alt="meAltf" /> </p>
 
 ---
 
