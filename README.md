@@ -6,8 +6,6 @@
   <a href="https://drive.google.com/file/d/1c_KeZdw3unygyAoefEbR5kyztTx6SN1X/view?usp=drive_link" target="_blank"><strong>Resume ↗</strong></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=meAltf&label=Profile%20views&color=0e75b6&style=flat" alt="meAltf" />
 </p>
@@ -15,6 +13,8 @@
 ---
 
 ## 🔥 About Me
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 👨‍💻 Working as SDE-1 at MindSprint (Olam)
 - 🌱 Currently exploring **Spring Framework** & **System Design**
