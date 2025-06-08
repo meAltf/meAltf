@@ -22,6 +22,15 @@
 - ✍️ Blogging and building side projects
 - 📫 Reach me at: **alataf.dce.cs1@gmail.com**
 
+### 🛠️ Tech Proficiency
+
+- 📦 **Frameworks & Libraries:** Hibernate, Spring, Spring Boot 3, SpringBoot IoC, SpringBoot AOP, SpringBoot MVC  
+- 🧰 **Development Tools:** DBeaver, PuTTY, VSCode, IntelliJ IDEA, Eclipse, Git, Maven, Postman  
+- 💻 **Operating Systems:** Linux, Windows  
+- ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency)  
+- 🧪 **Methodologies:** Agile, Waterfall  
+- 🤝 **Collaboration:** GitHub
+
 ---
 
 ## 💼 Tech Stack
