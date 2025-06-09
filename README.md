@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full Stack Java Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
-  <a href="https://mealtf.netlify.com" target="_blank"><strong>Portfolio ↗</strong></a> • 
+  <a href="https://mealtf-portfolio.lovable.app" target="_blank"><strong>Portfolio ↗</strong></a> • 
   <a href="https://drive.google.com/file/d/1c_KeZdw3unygyAoefEbR5kyztTx6SN1X/view?usp=drive_link" target="_blank"><strong>Resume ↗</strong></a>
 </p>
 
