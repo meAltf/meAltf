@@ -63,8 +63,6 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meAltf&show_icons=true&locale=en&layout=compact" alt="meAltf" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meAltf&show_icons=true&locale=en" alt="meAltf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meAltf&" alt="meAltf" /></p>
