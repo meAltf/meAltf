@@ -27,7 +27,7 @@
 - 📦 **Frameworks & Libraries:** Hibernate, Spring, Spring Boot 3, SpringBoot IoC, SpringBoot AOP, SpringBoot MVC  
 - 🧰 **Development Tools:** DBeaver, PuTTY, VSCode, IntelliJ IDEA, Eclipse, Git, Maven, Postman  
 - 💻 **Operating Systems:** MacOS, Linux, Windows  
-- ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency), Docker
+- ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency), Docker,
 - 🧪 **Methodologies:** Agile, Waterfall  
 - 🤝 **Collaboration:** GitHub
 
