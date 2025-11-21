@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alataf Ansari</h1>
-<h3 align="center">Software Engineer | Full Stack Java Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">Software Engineer | Full Stack Java, Angular Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
   <a href="https://mealtf-portfolio.lovable.app" target="_blank"><strong>Portfolio ↗</strong></a> • 
