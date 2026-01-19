@@ -29,7 +29,7 @@
 - 💻 **Operating Systems:** MacOS, Linux, Windows  
 - ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency), Docker,
 - 🧪 **Methodologies:** Agile, Waterfall  
-- 🤝 **Collaboration:** GitHub
+- 🤝 **Collaboration:** GitHub, GitLab
 
 ---
 
