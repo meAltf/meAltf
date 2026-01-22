@@ -25,7 +25,7 @@
 ### 🛠️ Tech Proficiency
 
 - 📦 **Frameworks & Libraries:** Hibernate, Spring, Spring Boot 3, SpringBoot IoC, SpringBoot AOP, SpringBoot MVC, Angular  
-- 🧰 **Development Tools:** DBeaver, PuTTY, VSCode, IntelliJ IDEA, Eclipse, Git, Maven, Postman  
+- 🧰 **Development Tools:** DBeaver, PuTTY, VSCode, IntelliJ IDEA, Eclipse, Git, Maven, Postman, SQL, MongoDB
 - 💻 **Operating Systems:** MacOS, Linux, Windows  
 - ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency), Docker,
 - 🧪 **Methodologies:** Agile, Waterfall  
