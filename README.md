@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alataf Ansari</h1>
-<h3 align="center">Software Engineer | Full Stack Engineer Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">Software Engineer | Full Stack Developer Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
   <a href="https://mealtf-portfolio.lovable.app" target="_blank"><strong>Portfolio ↗</strong></a> • 
@@ -17,7 +17,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 👨‍💻 Ex- SDE-1 at MindSprint (Olam information)
-- 🌱 Currently exploring **Spring Framework, AI Engineer Bootcamp** & **System Design**
+- 🌱 Currently exploring **Spring Framework, AI Engineer Training** & **System Design**
 - 🧠 Love contributing to open source and solving real-world problems
 - ✍️ Blogging and building side projects
 - 📫 Reach me at: **alataf.dce.cs1@gmail.com**
