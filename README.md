@@ -30,6 +30,7 @@
 - ☁️ **Web Services & Cloud:** REST, Microservices with Spring Cloud, AWS (Basic Proficiency), Docker, Kubernetes
 - 🧪 **Methodologies:** Agile, Waterfall  
 - 🤝 **Collaboration:** GitHub, GitLab
+- unable to learn in last 2 days, it feels me worried
 
 ---
 
