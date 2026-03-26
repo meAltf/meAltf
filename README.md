@@ -20,7 +20,7 @@
 - 🧠 Love contributing to open source and solving real-world problems
 - ✍️ Blogging and building side projects
 - 📫 Reach me at: **alataf.dce.cs1@gmail.com**
-- Feelong useless bcz of no learning past 2 weeks
+- Feeling useless bcz of no learning past 2 weeks
 
 ### 🛠️ Tech Proficiency
 
