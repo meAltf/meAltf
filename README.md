@@ -20,7 +20,7 @@
 - 🧠 Love contributing to open source and solving real-world problems
 - ✍️ Blogging and building side projects
 - 📫 Reach me at: **alataf.dce.cs1@gmail.com**
-- | Now watching IPL | not well
+- | Now watching IPL | On long holiday
 
 ### 🛠️ Tech Proficiency
 
