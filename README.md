@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mealtf-portfolio.lovable.app" target="_blank"><strong>Portfolio ↗</strong></a> • 
-  <a href="https://drive.google.com/file/d/1Johp2QwP57SnhM6qNenrMiCpEQJbcSA9/view?usp=drive_link" target="_blank"><strong>Resume ↗</strong></a>
+  <a href="https://drive.google.com/file/d/1azYU8_wbO4gzi3XVLrda3eCeCrEIHFcL/view?usp=drive_link" target="_blank"><strong>Resume ↗</strong></a>
 </p>
 
 <p align="left">
