@@ -16,7 +16,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 👨‍💻 SWE at BNP Paribas | Ex- SDE-1 at MindSprint (Olam information)
-- 🌱 Currently exploring **Spring Framework, AI Engineer Training** & **System Design**
+- 🌱 Currently exploring **Spring Framework, AI Engineer (learning by building)** & **System Design**
 - 🧠 Love contributing to open source and solving real-world problems
 - ✍️ Blogging and building side projects
 - 📫 Reach me at: **alataf.dce.cs1@gmail.com**
